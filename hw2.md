@@ -14,7 +14,7 @@ gantt
     系統測試      :a9,after a6,25d
     使用者訓練    :a10,after a7 and a8,20d
     使用者測試    :a11,after a9 and a10,25d
-'''
+```
 ```mermaid
 flowchart TD
     no1["研擬計畫 <br> 任務:1 <br> 開始:第1天 <br> 結束:第1天 <br> 需時:1天"]
