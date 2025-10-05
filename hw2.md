@@ -30,7 +30,7 @@ flowchart TD
 
 ```mermaid
 gantt
-    title A Gantt Diagram
+    title Project A Gantt Diagram
 
     section 任務
     研擬計畫           :a1, 2025-10-01, 1d
