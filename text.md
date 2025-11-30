@@ -1,7 +1,0 @@
-![Python](https://img.shields.io/badge/Python-3.11.9-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-Backend-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-API-A30000?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![WhisperX](https://img.shields.io/badge/AI-WhisperX-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/Tool-FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
-![Git](https://img.shields.io/badge/Version_Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
